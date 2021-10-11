@@ -1,4 +1,5 @@
-# jQueryTeller
+# OWASP-Automation
+
 jQuery teller automates the process of finding owasp top 10 bug (A06:2021-Vulnerable and Outdated Components).
 This tool can be used to tell what si the libraries version and which cves its vunerbale to and respective fixes:)
 OWASP TOP 10 -
