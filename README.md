@@ -1,6 +1,7 @@
 # jQueryTeller
-jQuery teller is a awessome tool which can be used to tell wheather the jQuery is present on the website or not.<br/>
-It also tells that the version of jQuery:)
+jQuery teller automates the process of finding owasp top 10 bug (A06:2021-Vulnerable and Outdated Components).
+This tool can be used to tell what si the libraries version and which cves its vunerbale to and respective fixes:)
+
 
 ![Alt text](https://github.com/adihacks/jQueryTeller-/blob/main/logo.png)
 
